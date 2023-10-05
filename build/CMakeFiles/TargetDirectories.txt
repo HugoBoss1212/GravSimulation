@@ -1,0 +1,3 @@
+/home/hugo/GravitySymulation/build/CMakeFiles/GravitySimulation.dir
+/home/hugo/GravitySymulation/build/CMakeFiles/edit_cache.dir
+/home/hugo/GravitySymulation/build/CMakeFiles/rebuild_cache.dir

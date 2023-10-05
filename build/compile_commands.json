@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/hugo/GravitySymulation/build",
+  "command": "/usr/bin/g++  -I/home/hugo/GravitySymulation/src/headers -g -o CMakeFiles/GravitySimulation.dir/src/Main.cpp.o -c /home/hugo/GravitySymulation/src/Main.cpp",
+  "file": "/home/hugo/GravitySymulation/src/Main.cpp"
+},
+{
+  "directory": "/home/hugo/GravitySymulation/build",
+  "command": "/usr/bin/g++  -I/home/hugo/GravitySymulation/src/headers -g -o CMakeFiles/GravitySimulation.dir/src/Particle.cpp.o -c /home/hugo/GravitySymulation/src/Particle.cpp",
+  "file": "/home/hugo/GravitySymulation/src/Particle.cpp"
+},
+{
+  "directory": "/home/hugo/GravitySymulation/build",
+  "command": "/usr/bin/g++  -I/home/hugo/GravitySymulation/src/headers -g -o CMakeFiles/GravitySimulation.dir/src/Quadtree.cpp.o -c /home/hugo/GravitySymulation/src/Quadtree.cpp",
+  "file": "/home/hugo/GravitySymulation/src/Quadtree.cpp"
+},
+{
+  "directory": "/home/hugo/GravitySymulation/build",
+  "command": "/usr/bin/g++  -I/home/hugo/GravitySymulation/src/headers -g -o CMakeFiles/GravitySimulation.dir/src/Timer.cpp.o -c /home/hugo/GravitySymulation/src/Timer.cpp",
+  "file": "/home/hugo/GravitySymulation/src/Timer.cpp"
+}
+]
